@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JsonDropDownGriedView", "E:\My Workstation Projects\sandesh\JSON Code\JsonDropDownGriedView\", "{C3F749E2-B6AA-491C-98E2-2BB036974AB3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59566"
+		Debug.AspNetCompiler.PhysicalPath = "E:\My Workstation Projects\sandesh\JSON Code\JsonDropDownGriedView\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59566\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59566"
+		Release.AspNetCompiler.PhysicalPath = "E:\My Workstation Projects\sandesh\JSON Code\JsonDropDownGriedView\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59566\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59566"
+		SlnRelativePath = "E:\My Workstation Projects\sandesh\JSON Code\JsonDropDownGriedView\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F749E2-B6AA-491C-98E2-2BB036974AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F749E2-B6AA-491C-98E2-2BB036974AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
